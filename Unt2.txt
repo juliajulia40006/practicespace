@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1231231231231231313werwer3234
 
+=======
+print("lldfldsfpwewqeqweeqewewqewqeqeqeqeqeqwewqewqewqe21321312311`3123123123123dsfdspfpvxcv")
+>>>>>>> master
